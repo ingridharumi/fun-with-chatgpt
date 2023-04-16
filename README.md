@@ -1,6 +1,6 @@
 # Project Name
 
-Short description of the project.
+Data Analytics in Media and Entertainment industry - Viewer tracking preferences
 
 ## Table of Contents
 
@@ -11,15 +11,28 @@ Short description of the project.
 
 ## Installation
 
-Describe how to install the project, and any dependencies or requirements.
+Download the VTP software  
+Data Sources - Wikipedia, Box Office Mojo, Rotten Tomatoes, IMDb
+
+Processing Platform - Linux (CentOS)
+
+Data Storage - Microsoft Excel or CSV’s on a local file system
+
+Data Mining and Processing - Python
+
+Data Transformation and Analysis - Microsoft Excel
+
+Predictive Modeling - R
+
+Useful tutorial - Automate Web Scraping in R with GitHub actions https://www.youtube.com/watch?v=N3NrWMxeeJQ
 
 ## Usage
 
-Provide instructions and examples for how to use the project.
+
 
 ## Contributing
 
-Explain how other users can contribute to the project.
+You can contribute with this project indicating new data sources and improving the Python comands for the tracking. 
 
 ## License
 
